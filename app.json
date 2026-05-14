@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "RxLedger",
+    "slug": "rxledger",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0F6E56"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F6E56"
+      }
+    }
+  }
+}
